@@ -982,6 +982,6 @@ body {
     transform: scale(0);
   }
 }
-.container * {
+.not-loaded * {
   animation-play-state: paused !important;
-}/*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=style.css.map */
